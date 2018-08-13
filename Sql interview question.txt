@@ -32,3 +32,5 @@ EmployeeId | FirstName | LastName | Salary | ManagerId |
    From Employee
    Order By Salary DESC
    Limit 1 Offset 1
+
+4. Return 
